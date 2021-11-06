@@ -1,1 +1,1 @@
-$("#h").click(alert("learning"));
+$("#h").click(alert("learning JQuery"));
