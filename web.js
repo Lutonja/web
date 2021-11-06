@@ -1,1 +1,1 @@
-
+$("#h").click(alert("learning"));
