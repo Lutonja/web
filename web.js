@@ -1,5 +1,6 @@
-//$("#h").click(alert("learning JQuery"));
-
-//document.getElementById("h").onclick = 
-  
-  alert("learning JQuery");
+$(document).ready(function(){
+    $("h1").click(function(){
+        alert("Learning JQuery");
+    });
+}
+);
