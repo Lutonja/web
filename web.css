@@ -2,6 +2,7 @@ body {
     background-image: linear-gradient(180deg, rgb(241, 231, 138), white);
 }
 
-.h{
+h1{
     color: green;
+    text-shadow: 1px 1px;
 }
