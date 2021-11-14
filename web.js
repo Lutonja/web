@@ -26,7 +26,7 @@ function connected(){
 }
 
     $("#leo").click(function(){
-        alert("Contents will disappear");
+//        alert("Contents will disappear");
         $(this).fadeOut(500);
         $("p1").fadeOut(500);
     });
