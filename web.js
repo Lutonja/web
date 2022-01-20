@@ -30,3 +30,4 @@ function connected(){
         $("#p1").fadeOut(500);
     });
 
+document.getElementById("lo").innerHTML = document.domain;
